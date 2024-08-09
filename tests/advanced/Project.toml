@@ -1,0 +1,4 @@
+[deps]
+Diana = "070d9d8b-17a7-5814-83fa-42438ba5c6e0"
+GraphQLite = "be37cb57-8ba9-4d66-a8ef-a8b0d3c939ed"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"

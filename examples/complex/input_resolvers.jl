@@ -1,0 +1,1 @@
+GraphQLite.resolveinput(::Val{:CartItemInput}, d::Dict) = GraphQLite.dict2struct(CartItemInput, d)
